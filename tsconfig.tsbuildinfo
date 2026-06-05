@@ -1,1 +1,1 @@
-{"root":["./src/app.tsx","./src/main.tsx","./server/db.ts","./server/dummydata.ts","./server/importrepository.ts","./server/index.ts"],"version":"5.9.3"}
+{"root":["./src/app.tsx","./src/main.tsx","./server/analyticsrepository.ts","./server/db.ts","./server/dummydata.ts","./server/importrepository.ts","./server/index.ts"],"version":"5.9.3"}
